@@ -1,4 +1,4 @@
-#Basic packet sniffer with python -Burak "paradass" Görez
+#Basic packet sniffer with python by Burak "paradass" Görez
 
 import scapy.all as scapy
 
